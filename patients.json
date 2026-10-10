@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Harry Ball",
+        "treatment": "RCT",
+        "cost": "2000",
+        "status": "Pending"
+    },
+    {
+        "name": "Ivy Johnson",
+        "treatment": "Prophy",
+        "cost": "150",
+        "status": "Accepted"
+    },
+    {
+        "name": "Christopher Robin",
+        "treatment": "Crown",
+        "cost": "1500",
+        "status": "Accepted"
+    },
+    {
+        "name": "Michael Myers",
+        "treatment": "SRP",
+        "cost": "800",
+        "status": "Accepted"
+    }
+]
